@@ -1,9 +1,0 @@
-line-length = 96
-target-version = "py38"
-
-[lint]
-select = ["E", "F", "W", "I", "B", "Q", "TRY", "EM", "FIX"]
-ignore = ["E501"]
-
-[format]
-quote-style = "double"
